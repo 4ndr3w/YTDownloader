@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^watch/([0-9]+)$ /youtube/video.php?id=$1 [L]
